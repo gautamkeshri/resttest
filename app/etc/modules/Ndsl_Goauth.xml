@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Ndsl_Goauth>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.1.0</version>
+    </Ndsl_Goauth>
+  </modules>
+</config>
